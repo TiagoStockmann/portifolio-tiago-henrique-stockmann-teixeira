@@ -25,6 +25,7 @@ Tenho interesse em projetos relacionados a:
 Busco constantemente aprimorar minhas habilidades técnicas através de laboratórios, projetos acadêmicos e ambientes reais de infraestrutura.
 
 🚀 Habilidades Técnicas
+
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
