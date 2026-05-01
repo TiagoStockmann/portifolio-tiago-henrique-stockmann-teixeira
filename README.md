@@ -18,14 +18,18 @@ Atualmente cursando Analise de desenvolvimento de sistemas
 Tenho interesse em projetos relacionados a:
 
 ☁️ Cloud Computing
+
 🔐 Segurança e infraestrutura
+
 🤖 Automação e DevOps
+
 📊 Monitoramento e observabilidade
+
 🌐 Redes de computadores
+
 🐳 Containers e Kubernetes
 
 Busco constantemente aprimorar minhas habilidades técnicas através de laboratórios, projetos acadêmicos e ambientes reais de infraestrutura.
-
 
 
 🚀 Habilidades Técnicas
